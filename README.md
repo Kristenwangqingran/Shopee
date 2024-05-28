@@ -1,2 +1,2 @@
-# pytest_sample
-write the API test cases
+# Shopee
+API automation platform source code
